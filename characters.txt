@@ -1,53 +1,41 @@
-The Great Catsby - Characters
+To Kill a Mockingbird - Characters
 
-1. Nick Carraway
-   - The narrator of the novel.
-   - A Yale graduate from the Midwest.
-   - Moves to West Egg to work in the bond business.
-   - Honest, tolerant, and reserved; becomes Catsby’s friend.
+1. Scout Finch (Jean Louise Finch)
+   - The narrator and protagonist.
+   - Intelligent, curious, and tomboyish young girl.
 
-2. Jay Catsby (James Gatz)
-   - Mysterious and fabulously wealthy man known for throwing lavish parties.
-   - Originally from a poor background in North Dakota.
-   - Obsessed with rekindling his romance with Daisy Buchanan.
+2. Atticus Finch
+   - Scout and Jem’s father.
+   - A lawyer known for his strong sense of morality and justice.
 
-3. Daisy Buchanan
-   - Nick’s cousin.
-   - Catsby’s former lover.
-   - Married to Tom Buchanan.
-   - Beautiful and charming but shallow and materialistic.
+3. Jem Finch (Jeremy Atticus Finch)
+   - Scout’s older brother.
+   - Protective, idealistic, and deeply affected by the injustice he witnesses.
 
-4. Tom Buchanan
-   - Daisy’s wealthy, aggressive, and arrogant husband.
-   - Former college athlete.
-   - Has an affair with Myrtle Wilson.
+4. Tom Robinson
+   - A Black man falsely accused of raping Mayella Ewell.
+   - Represents innocence destroyed by racial prejudice.
 
-5. Jordan Baker
-   - Daisy’s friend and Nick’s love interest.
-   - Professional golfer.
-   - Cynical, dishonest, and self-centered.
+5. Boo Radley (Arthur Radley)
+   - Mysterious recluse living next door to the Finches.
+   - Ultimately revealed as kind-hearted and heroic.
 
-6. Myrtle Wilson
-   - Tom’s mistress.
-   - Married to George Wilson.
-   - Lives in the valley of ashes; dreams of a better life.
+6. Bob Ewell
+   - Racist and abusive father of Mayella.
+   - Vindictive antagonist in the story.
 
-7. George Wilson
-   - Myrtle’s husband.
-   - Owns a garage in the valley of ashes.
-   - Passive, poor, and eventually driven to despair.
+7. Mayella Ewell
+   - Bob Ewell’s daughter.
+   - Accuses Tom Robinson under pressure and fear.
 
-8. Meyer Wolfsheim
-   - Catsby’s shady business associate.
-   - Allegedly fixed the 1919 World Series.
-   - Symbol of the corruption behind Catsby’s fortune.
+8. Calpurnia
+   - The Finch family’s Black housekeeper.
+   - Maternal figure to Scout and Jem.
 
-9. Owl Eyes
-   - A guest at Catsby’s parties.
-   - One of the few who attend Catsby’s funeral.
-   - Represents those who see through Catsby’s illusion.
+9. Dill Harris
+   - Scout and Jem’s friend who visits in the summer.
+   - Based on Truman Capote.
 
-10. Henry Gatz
-    - Catsby’s father.
-    - Proud of his son’s accomplishments.
-    - Provides insight into Catsby’s humble beginnings.
+10. Miss Maudie
+    - Friendly neighbor of the Finches.
+    - Strong moral compass and role model.

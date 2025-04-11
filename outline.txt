@@ -1,54 +1,42 @@
-The Great Catsby - Outline
+To Kill a Mockingbird - Outline
 
 I. Introduction
-   A. Author: F. Scott Fitzgerald
-   B. Published: 1925
-   C. Genre: Tragedy, Historical Fiction
-   D. Setting: Long Island, New York, during the summer of 1922
+   A. Author: Harper Lee
+   B. Published: 1960
+   C. Genre: Southern Gothic, Bildungsroman
+   D. Setting: Maycomb, Alabama, during the Great Depression (1930s)
 
 II. Main Characters
-   A. Nick Carraway – Narrator, Yale graduate, bonds salesman
-   B. Jay Catsby – Wealthy and mysterious man, in love with Daisy
-   C. Daisy Buchanan – Nick’s cousin, Catsby’s love interest
-   D. Tom Buchanan – Daisy’s wealthy, arrogant husband
-   E. Jordan Baker – Professional golfer, Daisy’s friend
-   F. Myrtle Wilson – Tom’s mistress
-   G. George Wilson – Myrtle’s husband, mechanic
+   A. Scout Finch – Narrator, young girl learning about morality and justice
+   B. Atticus Finch – Scout’s father, principled lawyer
+   C. Jem Finch – Scout’s older brother
+   D. Tom Robinson – Black man falsely accused of raping a white woman
+   E. Boo Radley – Reclusive neighbor
+   F. Bob Ewell – Racist antagonist, father of Mayella
+   G. Mayella Ewell – Accuser in the trial
+   H. Calpurnia – Finch family's cook and caretaker
 
 III. Plot Summary
-   A. Exposition
-      1. Nick moves to West Egg
-      2. Meets Catsby and gets drawn into his world
-   B. Rising Action
-      1. Catsby's lavish parties
-      2. Catsby’s longing for Daisy
-      3. Reunion arranged by Nick
-   C. Climax
-      1. Confrontation in New York hotel
-      2. Catsby's dream begins to unravel
-   D. Falling Action
-      1. Myrtle’s death
-      2. Catsby takes the blame
-   E. Resolution
-      1. Catsby’s death
-      2. Nick’s disillusionment
-      3. Return to the Midwest
+   A. Childhood adventures of Scout and Jem
+   B. Mysterious fascination with Boo Radley
+   C. Atticus defends Tom Robinson in court
+   D. Trial and its racial injustices
+   E. Aftermath of the verdict
+   F. Boo Radley’s eventual appearance and heroism
 
 IV. Major Themes
-   A. The American Dream
-   B. Class and Social Status
-   C. Love and Obsession
-   D. Moral Decay and Superficiality
-   E. Time and the Past
-   F. Identity and Reinvention
+   A. Racial Injustice
+   B. Moral Growth
+   C. Courage and Integrity
+   D. Prejudice vs. Compassion
+   E. Loss of Innocence
 
 V. Symbols and Motifs
-   A. The Green Light
-   B. The Eyes of Doctor T. J. Eckleburg
-   C. Catsby’s Mansion
-   D. The Valley of Ashes
+   A. The Mockingbird
+   B. The Radley House
+   C. Courtroom as a stage of justice and failure
+   D. Camellias and snowman
 
 VI. Conclusion
-   A. Reflection on the illusion of the American Dream
-   B. The tragedy of unattainable ideals
-   
+   A. Scout’s growth and understanding of empathy
+   B. Timeless message of human dignity and justice
